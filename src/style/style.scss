@@ -1,0 +1,22 @@
+.test-container {
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    .test-text {
+        font-family: sans-serif;
+        text-align: center;
+        background-color: #7f8fa6;
+        color: #FFF;
+        padding: 30px 40px;
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+        border-radius: 3px;
+        font-weight: 600;
+    }
+
+}
